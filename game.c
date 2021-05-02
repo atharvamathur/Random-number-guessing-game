@@ -1,7 +1,8 @@
+// including all libraries.
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-
+// main function
 int main(){
     int number , guess , nguesses=1  ;
     srand(time(0));  
